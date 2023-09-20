@@ -1,0 +1,5 @@
+# Ignorar archivos temporales de Excel
+*~$
+
+# Ignorar todos los archivos con nombres que comienzan con ~$
+~$*
